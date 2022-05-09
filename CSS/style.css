@@ -1,0 +1,133 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color:#F0FFC2;
+}
+
+h1 {
+    padding-top: 150px;
+    font-size: 100px;
+    font-family: 'Shizuru', cursive;
+}
+
+hr {
+    width: 4%;
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    margin: 100px auto;
+}
+
+.code-img {
+    width: 25%;
+    float :left;
+    margin-right: 30px;
+} 
+
+.tennis-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.pro {
+    font-size: 30px;
+    font-family: 'Shizuru', cursive;
+}
+
+.top-container {
+    position: relative;
+    background-color: #F0FFC2;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    margin: 30px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    margin: 30px;
+    top: 420px;
+    left: 70px;
+}
+
+.skill-row {
+    margin: 80px auto 100px auto;
+    width: 50%;
+    text-align: left;
+
+}
+
+p {
+    line-height: 2;
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-size: 30px;
+    margin-top: 20px;
+    color: #90E0EF;
+    margin: 30px 0 30px 0;
+    font-family: 'Roboto Slab', serif;
+}
+
+h3 {
+    color: #90E0EF;
+    font-family: 'Roboto Slab', serif;
+}
+
+.middle-container {
+    margin: 100px 0;
+
+}
+
+.para {
+    width: 30%;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+    background-color: #90E0EF;
+}
+
+.btn {
+    background: #90E0EF;
+    background-image: -webkit-linear-gradient(top, #90E0EF, #90E0EF);
+    background-image: -moz-linear-gradient(top, #90E0EF, #90E0EF);
+    background-image: -ms-linear-gradient(top, #90E0EF, #90E0EF);
+    background-image: -o-linear-gradient(top, #90E0EF, #90E0EF);
+    background-image: linear-gradient(to bottom, #90E0EF, #90E0EF);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: white;
+    font-size: 21px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #F0FFC2;
+    background-image: -webkit-linear-gradient(top, #F0FFC2, #F0FFC2);
+    background-image: -moz-linear-gradient(top, #F0FFC2, #F0FFC2);
+    background-image: -ms-linear-gradient(top, #F0FFC2, #F0FFC2);
+    background-image: -o-linear-gradient(top, #F0FFC2, #F0FFC2);
+    background-image: linear-gradient(to bottom, #F0FFC2, #F0FFC2);
+    text-decoration: none;
+  }
+
+a {
+    margin: 10px 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+a:hover {
+    color: #F0FFC2;
+}
+
+.TEN {
+    padding-bottom: 30px;
+}
